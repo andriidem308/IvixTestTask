@@ -1,4 +1,3 @@
-# IvixTestTask
 
 - To start execution you need to launch starter.py file located at YelpScraper/YelpScraper/
 
